@@ -38,12 +38,12 @@ Cette **To-Do List** a été développée dans l'objectif de créer une interfac
   &nbsp;&nbsp;
   <!-- DaisyUI -->
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/daisyui.png" alt="daisyui" width="55" height="55"/>
+    <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="daisyui" width="55" height="55"/>
   </a>
   &nbsp;&nbsp;
   <!-- Lucide React -->
   <a href="https://lucide.dev/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/70811176/203565176-6584d27f-7301-4059-b38d-10f2918b5f2d.png" alt="lucide react" width="55" height="55"/>
+    <img src="https://lucide.dev/logo.dark.svg" alt="lucide react" width="55" height="55"/>
   </a>
 </p>
 
