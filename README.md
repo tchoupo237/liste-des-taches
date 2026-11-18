@@ -1,16 +1,54 @@
-# React + Vite
+# 📝 Liste des tâches (To-Do List) — WEB 3.0 ACADEMY
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Une application de gestion de tâches interactive, moderne et responsive conçue pour maîtriser les bases et concepts avancés de JavaScript, de l'intégration HTML/CSS et de React.js.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 Aperçu du projet
 
-## React Compiler
+<div align="center">
+  <!-- Remplacez le lien ci-dessous par l'adresse de votre image une fois importée sur GitHub -->
+  <img src="image_4.png" alt="Bannière Liste des tâches - WEB 3.0 ACADEMY" width="100%" />
+</div>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 À propos du projet
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Cette **To-Do List** a été développée dans l'objectif de créer une interface utilisateur fluide, dynamique et engageante. Elle permet à l'utilisateur de :
+
+- ➕ **Ajouter des tâches** en temps réel via un champ de saisie intuitif.
+- 🗑️ **Supprimer des tâches** obsolètes en un clic.
+- 👍 **Liker des tâches** pour marquer leur importance, avec un compteur dynamique de likes en bas de page.
+- ✅ **Suivre l'état** grâce à des cases à cocher interactives.
+
+---
+
+## 🛠️ Stack Technique
+
+<p align="left">
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="55" height="55"/>
+  </a>
+</p>
+
+---
+
+## ⚙️ Installation en local
+
+1. **Cloner le projet :**
+   ```bash
+   git clone [https://github.com/tchoupo237/my-todo-list.git](https://github.com/tchoupo237/my-todo-list.git)
+   ```
